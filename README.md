@@ -1,5 +1,7 @@
 # pinestc
 
+[![Greenkeeper badge](https://badges.greenkeeper.io/taoyuan/pinestc.svg)](https://greenkeeper.io/)
+
 > The pinest nodejs client
 
 ## Usage
